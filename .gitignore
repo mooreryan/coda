@@ -1,0 +1,3 @@
+test_files/*.tsv
+cmake-build-*
+.idea
