@@ -1,6 +1,7 @@
 #ifndef CODA_UTILS_H
 #define CODA_UTILS_H
 
+#include <array>
 #include <string>
 #include <iostream>
 #include <Eigen/Dense>
