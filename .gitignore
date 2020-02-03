@@ -1,3 +1,7 @@
 test_files/*.tsv
 cmake-build-*
 .idea
+
+coda__*tsv
+
+test_files/.Rhistory
