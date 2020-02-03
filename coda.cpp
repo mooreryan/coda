@@ -11,7 +11,7 @@
 #include "rsvd.h"
 #include "element.h"
 
-#define VERSION "0.2.1"
+#define VERSION "0.2.2"
 
 using namespace std;
 
